@@ -119,21 +119,13 @@ I enjoy solving complex engineering problems where software, AI, and real-world 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrajaeim&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrajaeim&layout=compact&theme=transparent"/>
+<img src="https://ghstats.dev/api/card?username=mrajaeim&theme=nord" alt="GitHub Stats Card" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrajaeim&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrajaeim&theme=github-compact"/>
+<img src="https://ghstats.dev/api/langs?username=mrajaeim&theme=nord" alt="Top Languages" />
 
 </p>
 
@@ -142,6 +134,11 @@ I enjoy solving complex engineering problems where software, AI, and real-world 
 # ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+⚡ [The Ultimate Guide to Mastering 'useEffect'](https://dev.to/mrajaeim/the-ultimate-guide-to-mastering-useeffect-1ci9)
+
+🤖 [A Guide to Modern Browser Storage And Data Sharing Capabilities](https://dev.to/mrajaeim/a-guide-to-modern-browser-storage-and-data-sharing-capabilities-4eb8)
+
+🚀 [Mastering Cross-Window Communication in JavaScript: postMessage vs BroadcastChannel Explained](https://medium.com/@mrajaeim/understanding-window-postmessage-and-window-parent-postmessage-in-javascript-f09d4eac68ba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
